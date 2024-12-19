@@ -6,6 +6,7 @@ and the stm32f411VE as the mcu.
 This project was developed as the final project for ECEN 5613 Fall 2024.
 
 A detailed report of the project can is linked here https://github.com/nasa7792/projects_show_case/blob/main/ESD_FINAL_PROJECT/ESD_FINAL_PROJECT_REPORT.pdf
+A video demo and explanation is linked here https://drive.google.com/file/d/1A3WBefVZeJB_uPOijzjNaYWdYe9AV305/view?usp=drive_link
 
 ## Overview block diagram
 ![Nalin Saxena (1)](https://github.com/user-attachments/assets/9db003a1-02ad-494f-95d6-9cb68086b814)
