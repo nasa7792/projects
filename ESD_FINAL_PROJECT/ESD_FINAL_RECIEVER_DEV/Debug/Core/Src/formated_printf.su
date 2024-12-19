@@ -1,0 +1,4 @@
+../Core/Src/formated_printf.c:18:6:print_success	16	static
+../Core/Src/formated_printf.c:23:6:print_info	16	static
+../Core/Src/formated_printf.c:27:6:print_error	16	static
+../Core/Src/formated_printf.c:31:6:nrf_payload_print	24	static

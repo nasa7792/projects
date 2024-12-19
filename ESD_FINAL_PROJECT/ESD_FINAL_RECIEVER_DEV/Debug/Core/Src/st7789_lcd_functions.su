@@ -1,0 +1,10 @@
+../Core/Src/st7789_lcd_functions.c:48:6:LCD_spi_init	8	static
+../Core/Src/st7789_lcd_functions.c:68:6:LCD_write_command	16	static
+../Core/Src/st7789_lcd_functions.c:87:6:LCD_write_data	16	static
+../Core/Src/st7789_lcd_functions.c:105:6:LCD_write_byte_data	16	static
+../Core/Src/st7789_lcd_functions.c:123:6:LCD_address_window	40	static
+../Core/Src/st7789_lcd_functions.c:155:6:LCD_fill_screen_color	24	static
+../Core/Src/st7789_lcd_functions.c:178:6:LCD_draw_pixel	24	static
+../Core/Src/st7789_lcd_functions.c:199:6:LCD_draw_image	32	static
+../Core/Src/st7789_lcd_functions.c:225:6:LCD_write_character	48	static
+../Core/Src/st7789_lcd_functions.c:269:6:LCD_write_string	32	static
