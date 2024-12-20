@@ -1,6 +1,6 @@
 ## Nalin Saxena
 
-Embeddede systems enthusiast 
+Embedded systems enthusiast 
 
 ## 🎓 Education
 - Pursuing M.S in Embedded Systems, University of Colorado at Boulder
